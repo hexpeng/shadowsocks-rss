@@ -1,4 +1,4 @@
-# ShadowsocksR 协议插件文档 #
+# ShadowsocksR 协议插件文档 #incomplete
 ----
 
 ## 概要 ##
